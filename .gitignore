@@ -11,3 +11,4 @@ wheels/
 .env
 multiragchatbot.egg-info
 logs/
+vectorstore/
